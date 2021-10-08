@@ -41,7 +41,7 @@ google-analytics:
 disqus-shortname:
 
 # 60 Words About the Author
-author-about: Welcome to the site of the Financial Regulation session at the Stanford Institute for Theoretical Economics (SITE) conference. Established in 2017, this session discusses the latest advances in theoretical and empirical issues related to financial regulation, defined broadly. Topics include, but are not limited to, connections of regulation for intermediaries, households and policymakers in and outside the US. The organizers are <a href="https://sites.google.com/site/gmatvos/">Gregor Matvos</a> (Kellogg School of Management, Northwestern University), and <a href="https://aseru.people.stanford.edu">Amit Seru</a> (Stanford Graduate School of Business).
+author-about: Welcome to the site of the Financial Regulation session at the Stanford Institute for Theoretical Economics (SITE) conference. Established in 2017, this session discusses the latest advances in theoretical and empirical issues related to financial regulation, defined broadly. Topics include, but are not limited to, connections of regulation for intermediaries, households and policymakers in and outside the US. The organizers are<a href="https://sites.google.com/site/gmatvos/">Gregor Matvos</a>(Kellogg School of Management, Northwestern University), and<a href="https://aseru.people.stanford.edu">Amit Seru</a>(Stanford Graduate School of Business).
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: 
 
