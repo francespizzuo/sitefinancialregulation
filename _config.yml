@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'sitefinancialregulation.com'
+url: http://francespizzuo.github.io/sitefr
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: francespizzuo/sitefr
+baseurl: 
 
 # Title of the Site
 title: Financial Regulation Conference
