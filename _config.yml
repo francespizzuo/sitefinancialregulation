@@ -7,38 +7,38 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: What A Theme
+title: Financial Regulation Conference
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Stanford Institute for Theoretical Economics (SITE)
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: SITE, Stanford, Financial regulation, Amit Seru, Greg Matvos
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+heroimage: https://rde-stanford-edu.s3.amazonaws.com/styles/full_width/s3/Conferences/Images/SC_glance_hero.jpg?itok=MxN3h0Sw
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+email: 
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+github_username:  
+youtube_channel_id: 
 reddit_username: /
 behance_username: /
 dribbble_username: /
 spotify_username: /
 
 # Google Analytics
-google-analytics: UA-163806439-1
+google-analytics: 
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname:
 
 # Name of the Author
 author-name: TheDevsLot
