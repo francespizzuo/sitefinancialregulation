@@ -5,7 +5,7 @@ layout: page
 
 # SITE session on Financial Regulation (August 29-31, 2022)
 
-## Session: Financial Intermediation, August 29
+## Monday, August 29, 2022
 
 * 11.15 pm-12.00 pm:  **Intermediation via Credit Chains**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
@@ -27,7 +27,7 @@ Co-author(s): He Yang (Harvard)
 Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
 Co-author(s): Adrien Matray (Princeton)
 
-## Session: Financial Intermediation and Race, August 30
+## Tuesday, August 30, 2022
 *	9.00 am-9.45 am: **Explaining Racial Disparities in Personal Bankruptcy Outcomes**\
 Presented by: Sasha Indarte (Wharton)\
 Co-author(s): Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT)
@@ -41,8 +41,6 @@ Co-author(s): Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)
 Presented by: Lulu Wang (Stanford GSB)\
 Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford GSB)
 *	12.00 pm-1.30 pm: **Lunch**
-
-## Session: Financial Intermediation and Policy Design, August 30
 *	1.30 pm-2.15 pm: **The Design of Defined Contribution Plans**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))\
 Presented by: Gaston Illanes (Northwestern)\
@@ -58,7 +56,7 @@ Co-author(s): Jason Allen (Bank of Canada)
 Presented by: Kilian Huber (UChicago)\
 Co-author(s): Niels Gormsen (UChicago Booth)
 
-## Session: Financial Regulation meets IO of Healthcare and Consumer Finance Markets, August 31
+## Wednesday, August 31, 2022
 *	8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans**\
 ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
 Presented by: Alexander MacKay (Harvard HBS)\
