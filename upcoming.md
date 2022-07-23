@@ -39,7 +39,7 @@ Co-author(s): Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)
 *	10.45 am-11.15 am: **Break**
 *	11.15 am-12.00 pm: **Considering Racial Consideration Sets in Housing Market**\
 Presented by: Lulu Wang (Stanford GSB)\
-Co-author(s): Gregor Matvos (Northwestern Univerity Kellogg School of Management), and Amit Seru (Stanford GSB)
+Co-author(s): Gregor Matvos (Northwestern University Kellogg School of Management), and Amit Seru (Stanford GSB)
 *	12.00 pm-1.30 pm: **Lunch**
 *	1.30 pm-2.15 pm: **The Design of Defined Contribution Plans**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))\
