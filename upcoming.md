@@ -15,7 +15,7 @@ Co-author(s): Zhiguo He (UChicago Booth)
 *	12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market**\
 ([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
 Presented by: Tarun Ramadorai (Imperial)\
-Co-author(s): Santosh Angol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
+Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
 * 1.00 pm-2.30 pm: **Lunch**
 *	2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation**\
 ([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
@@ -43,7 +43,7 @@ Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford GSB)
 *	12.00 pm-1.30 pm: **Lunch**
 *	1.30 pm-2.15 pm: **The Design of Defined Contribution Plans**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))\
-Presented by: Gaston Illanes (Northwestern)\
+Presented by: Gastón Illanes (Northwestern)\
 Co-author(s): Vivek Bhattacharya (Northwestern)
 *	2.15 pm-2.30 pm: **Break**
 *	2.30 pm-3.15 pm: **Managing a Housing Boom**\
@@ -59,8 +59,8 @@ Co-author(s): Niels Gormsen (UChicago Booth)
 ## Wednesday, August 31, 2022
 *	8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans**\
 ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
-Presented by: Alexander MacKay (Harvard HBS)\
-Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard HBS)
+Presented by: Alexander MacKay (Harvard University)\
+Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)
 *	9.15 am-9.30 am: **Break**
 *	9.30 am-10.15 am: **Dynamic Pricing Regulation and Welfare in Insurance Markets**\
 ([Download paper](http://www.ko-ami.com/uploads/1/0/5/9/105963965/aizawa_ko_nov2021.pdf))\
@@ -73,5 +73,5 @@ Co-author(s): Gloria Yu (SMU), and Jinyuan Zhang (UCLA Anderson)
 *	11.45 am-12.00 pm: **Break**
 *	12.00 pm-12.45 pm: **Asymmetric information in the wholesale market for mortgages: The case of Ginnie Mae loans**\
 Presented by: Ken Hendricks (Wisconsin-Madison)\
-Co-author(s): Houde Jean-Francois (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison)
+Co-author(s): Houde Jean-François (Wisconsin-Madison), and Diwakar Raisingh (Wisconsin-Madison)
 *	1.00 pm-2.00 pm: **Lunch**
