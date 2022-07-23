@@ -10,7 +10,7 @@ layout: page
 * 11.15 pm-12.00 pm:  **Intermediation via Credit Chains**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
 Presented by: Jian Li (Columbia)\
-Co-author(s): Zhiguo Hue (UChicago Booth)
+Co-author(s): Zhiguo He (UChicago Booth)
 * 12.00 pm-12.15 pm: **Break**
 *	12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market**\
 ([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
@@ -46,7 +46,7 @@ Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford GSB)
 Presented by: Gaston Illanes (Northwestern)\
 Co-author(s): Vivek Bhattacharya (Northwestern)
 *	2.15 pm-2.30 pm: **Break**
-*	2.30 pm-3.15 pm: **Managing a House Boom**\
+*	2.30 pm-3.15 pm: **Managing a Housing Boom**\
 ([Download paper](http://www.dlgreenwald.com/uploads/4/5/2/8/45280895/cdn_draft.pdf))\
 Presented by: Daniel Greenwald (MIT)\
 Co-author(s): Jason Allen (Bank of Canada)
