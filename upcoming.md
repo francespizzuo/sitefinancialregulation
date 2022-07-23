@@ -51,7 +51,7 @@ Co-author(s): Vivek Bhattacharya (Northwestern)
 Presented by: Daniel Greenwald (MIT)\
 Co-author(s): Jason Allen (Bank of Canada)
 *	3.15 pm-3.30 pm: **Break**
-*	3.30 pm-4.15 pm: **Discount Rates: Measurement and Implications for Investment**\
+*	3.30 pm-4.15 pm: **Corporate Discount Rates**\
 ([Download paper](https://kilianhuber.github.io/website/GormsenHuber2022.pdf))\
 Presented by: Kilian Huber (UChicago)\
 Co-author(s): Niels Gormsen (UChicago Booth)
