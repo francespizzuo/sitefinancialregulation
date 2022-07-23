@@ -19,7 +19,7 @@ Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and 
 * 1.00 pm-2.30 pm: **Lunch**
 *	2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation**\
 ([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
-Presented by: Chenzi Xu (Stanford GSB)\
+Presented by: Chenzi Xu (Stanford University)\
 Co-author(s): He Yang (Harvard University)
 *	3.15 pm-3.30 pm: **Break**
 *	3.30 pm-4.15 pm: **The Real Effects of Banking the Poor: Evidence from Brazil**\
@@ -39,7 +39,7 @@ Co-author(s): Christopher Hansman (Imperial), and Pierre Mabille (INSEAD)
 *	10.45 am-11.15 am: **Break**
 *	11.15 am-12.00 pm: **Considering Racial Consideration Sets in Housing Market**\
 Presented by: Lulu Wang (Stanford University)\
-Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford GSB)
+Co-author(s): Gregor Matvos (Northwestern Kellogg), and Amit Seru (Stanford University)
 *	12.00 pm-1.30 pm: **Lunch**
 *	1.30 pm-2.15 pm: **The Design of Defined Contribution Plans**\
 ([Download paper](https://www.nber.org/system/files/working_papers/w29981/w29981.pdf))\
