@@ -8,12 +8,12 @@ layout: page
 ## Monday, August 29, 2022
 
 * 11.15 pm-12.00 pm:  **Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Jian Li (Columbia)\
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Zhiguo He (University of Chicago)
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Jian Li (Columbia)\
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;Co-author(s): Zhiguo He (University of Chicago)
 * 12.00 pm-12.15 pm: **Break**
 *	12.15 pm-1.00 pm: **A Bad Bunch: Asset Value Under-Reporting in the Mumbai Real Estate Market** ([Download paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055401))\
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Tarun Ramadorai (Imperial)\
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Presented by: Tarun Ramadorai (Imperial)\
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; Co-author(s): Santosh Anagol (Wharton), Vimal Balasubramaniam (Queen Mary), and Antoine Uettwiller (Imperial)
 * 1.00 pm-2.30 pm: **Lunch**
 *	2.30 pm-3.15 pm: **Real Effects of Stabilizing Private Money Creation** ([Download paper](https://chenzi-xu.com/docs/nationalbanks_xu_yang.pdf))\
 Presented by: Chenzi Xu (Stanford University)\
