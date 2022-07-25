@@ -23,8 +23,8 @@ Co-author(s): He Yang (Harvard University)
 Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
 Co-author(s): Adrien Matray (Princeton)
 
-> #### Tuesday, August 30, 2022
 
+> #### Tuesday, August 30, 2022
 
 *	9.00 am-9.45 am: **Explaining Racial Disparities in Personal Bankruptcy Outcomes**\
 Presented by: Sasha Indarte (Wharton)\
@@ -49,6 +49,7 @@ Co-author(s): Jason Allen (Bank of Canada)
 *	3.30 pm-4.15 pm: **Corporate Discount Rates** ([Download paper](https://kilianhuber.github.io/website/GormsenHuber2022.pdf))\
 Presented by: Kilian Huber (University of Chicago)\
 Co-author(s): Niels Gormsen (University of Chicago)
+
 
 > #### Wednesday, August 31, 2022
 
