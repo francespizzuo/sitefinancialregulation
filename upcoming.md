@@ -5,7 +5,7 @@ layout: page
 
 # SITE session on Financial Regulation (August 29-31, 2022)
 
-> ## Monday, August 29, 2022
+> #### Monday, August 29, 2022
 
 * 11.15 pm-12.00 pm:  **Intermediation via Credit Chains** ([Download paper](https://www.nber.org/system/files/working_papers/w29632/w29632.pdf))\
 Presented by: Jian Li (Columbia)\
@@ -23,7 +23,9 @@ Co-author(s): He Yang (Harvard University)
 Presented by: Julia Fonseca (University of Illinois at Urbana-Champaign)\
 Co-author(s): Adrien Matray (Princeton)
 
-> ## Tuesday, August 30, 2022
+> #### Tuesday, August 30, 2022
+
+
 *	9.00 am-9.45 am: **Explaining Racial Disparities in Personal Bankruptcy Outcomes**\
 Presented by: Sasha Indarte (Wharton)\
 Co-author(s): Bronson Argyle (BYU), Ben Iverson (BYU), and Christopher Palmer (MIT)
@@ -48,7 +50,8 @@ Co-author(s): Jason Allen (Bank of Canada)
 Presented by: Kilian Huber (University of Chicago)\
 Co-author(s): Niels Gormsen (University of Chicago)
 
-> ## Wednesday, August 31, 2022
+> #### Wednesday, August 31, 2022
+
 *	8.30 am-9.15 am: **What Drives Variation in Investor Portfolios? Evidence from Retirement Plans** ([Download paper](https://alexandermackay.org/files/What%20Drives%20Variation%20in%20Investor%20Portfolios%20-%20Evidence%20from%20Retirement%20Plans.pdf))\
 Presented by: Alexander MacKay (Harvard University)\
 Co-author(s): Mark Egan (Harvard HBS), and Hanbin Yang (Harvard University)
